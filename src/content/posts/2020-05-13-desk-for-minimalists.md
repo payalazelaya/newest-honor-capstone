@@ -1,54 +1,17 @@
 ---
 template: blog-post
-title: Desk for minimalists
-slug: /minimalists-desk
-date: 2020-05-13 12:46
-description: sdasd
-featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
+title: Technological Importance in all Areas of Latin America
+slug: /tech-resources
+date: 2023-04-04 23:29
+description: How remote suburban and rural areas should be provided with Internet access
+featuredImage: /assets/leon-overweel-iyajrykw0vw-unsplash.jpg
 ---
+Rural and remote suburban areas are known to be the areas that do not get much importance when it comes to Internet access. These areas are also dead spots for how Internet signal is very weak to how remote they're located on a map. At the same time, the amount of students who live in these areas that don't own a device is prominent and are not receiving the proper share in those who live in towns, cities, and even large cities who get their own devices.
 
-Uh, is the puppy mechanical in any way? Maybe I love you so much I love you no matter who you are pretending to be. If rubbin' frozen dirt in your crotch is wrong, hey I don't wanna be right. I found what I need. And it's not friends, it's things.
+The large focus point would be how allocating educational resources to all areas of a country is ensuring equity and fairness of educational opportunities for students and improving the performance of education systems. There has been a difference in how high-performing countries in Latin America have allocated more equitable resources to their education systems than semi-high-performing and low-performing countries. These two types of countries share more of their resources with advantaged schools than disadvantaged schools, bringing a negative outlook to the unfair distribution they're seen doing.
 
-That's the ONLY thing about being a slave. OK, if everyone's finished being stupid. Bender, we're trying our best. Fry! Stay back! He's too powerful! I just told you! **You've killed me!** _And yet you haven't said what I told you to say!_ How can any of us trust you?
+In this situation, establishing an equilibrium of providing resources to both advantaged and disadvantaged schools won't lead to rural and socio-economically disadvantaged schools being excluded from having access to ICT resources. Principals from these rural and socio-economically disadvantaged schools will be able to report less about receiving inadequate educational resources they're prominent in getting in the first place.
 
-![Royal Mail](/assets/royal-mail-unsplash.jpg "Royal Mail from Unsplash")
+Examples of where this concept can fit appropriately are in countries like Costa Rica, Mexico, and Peru, which reported the tendency they have of allocating resources to advantaged schools, making disadvantaged ones hinder their students' learning because of a lack of or inadequate resources. While these countries can learn from the concept presented in the paragraph above, they can also adapt to other OECD (Organization For Economic Cooperation and Development) countries like Finland with the process of how to allocate resources. Finland's school principals report that the country has been prominent in allocating resources to schools regardless of their socio-economic status, thus both advantaged and disadvantaged schools receive resources, beneficial to students' learning. 
 
-## It doesn't look so shiny to me.
-
-No! I want to live! There are still too many things I don't own! It doesn't look so shiny to me. I'm just glad my fat, ugly mama isn't alive to see this day. Soon enough. I'm sure those windmills will keep them cool.
-
-![]()
-
-1. Guards! Bring me the forms I need to fill out to have her taken away!
-2. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
-3. You, a bobsleder!? That I'd like to see!
-
-### Daylight and everything.
-
-A true inspiration for the children. Anyone who laughs is a communist! Can I use the gun? Oh, how I wish I could believe or understand that! There's only one reasonable course of action now: kill Flexo!
-
-- Fry! Stay back! He's too powerful!
-- Look, last night was a mistake.
-- Please, Don-Bot… look into your hard drive, and open your mercy file!
-
-And I'm his friend Jesus. One hundred dollars. There, now he's trapped in a book I wrote: a crummy world of plot holes and spelling errors! No! The cat shelter's on to me.
-
-Fry! Quit doing the right thing, you jerk! I'm sure those windmills will keep them cool. I'm Santa Claus! Leela's gonna kill me. Then we'll go with that data file!
-
-That's right, baby. I ain't your loverboy Flexo, the guy you love so much. You even love anyone pretending to be him! Bite my shiny metal ass. Tell them I hate them. Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments."
-
-That's a popular name today. Little "e", big "B"? Hey, whatcha watching? A sexy mistake. A true inspiration for the children. Shut up and get to the point!
-
-Ven ve voke up, ve had zese wodies. Oh, all right, I am. But if anything happens to me, tell them I died robbing some old man. So, how 'bout them Knicks? Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
-
-Shut up and get to the point! Take me to your leader! I can explain. It's very valuable. You guys realize you live in a sewer, right?
-
-Robot 1-X, save my friends! And Zoidberg! Oh Leela! You're the only person I could turn to; you're the only person who ever loved me. I guess because my parents keep telling me to be more ladylike. As though!
-
-I daresay that Fry has discovered the smelliest object in the known universe! Oh right. I forgot about the battle. Oh dear! She's stuck in an infinite loop, and he's an idiot! Well, that's love for you.
-
-You wouldn't. Ask anyway! Is today's hectic lifestyle making you tense and impatient? Ven ve voke up, ve had zese wodies. Doomsday device? Ah, now the ball's in Farnsworth's court!
-
-Fatal. Maybe I love you so much I love you no matter who you are pretending to be. Really?! You can see how I lived before I met you. Alright, let's mafia things up a bit. Joey, burn down the ship. Clamps, burn down the crew.
-
-Enough about your promiscuous mother, Hermes! We have bigger problems. Bender, being God isn't easy. If you do too much, people get dependent on you, and if you do nothing, they lose hope. You have to use a light touch. Like a safecracker, or a pickpocket.
+Overall, policy actions from governments that promote accelerating the digital transformation movement should also ensure that social inclusion is guaranteed to be of high priority. This inclusion should consist of, of course, equitable allocation of resources within schools, but also understanding the lifestyle of each student and how they're able to acquire resources, depending on where they live, whether it's a village, town, or city. At the same time, language variations consist throughout the entirety of the region where Spanish and native indigenous languages are well-known, taking into account how education reforms consider who gets included in programs that are addressed in these reforms too.
