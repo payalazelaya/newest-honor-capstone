@@ -1,10 +1,10 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Aprendiendo Conmigo ",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
+    "description": "An informative website about the importance of promoting technology in Latin America's education systems",
+    "siteUrl": "https://aprendiendo-conmigo.netlify.app/",
+    "image": "/assets/favicon.png",
     "iconimage": "/assets/stackrole.png",
     "twitterUsername": "@stackrole"
   },
