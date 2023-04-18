@@ -1,9 +1,10 @@
 ---
 template: blog-post
-title: Technology Education Upon Teachers
-slug: /teacher-support
-date: 2023-04-05 09:55
-description: "How teachers are the head in being support for students to achieve success "
+title: Education Technology Upon Teachers
+slug: /ed-tech-for-teachers
+date: 2023-04-17 21:03
+description: How teachers are head in being support for students to achieve
+  success once they're familiarized with education technology
 featuredImage: /assets/how-to-teach-english-in-latin-america-–-teach-and-enjoy1.jpg
 ---
 Teachers are the backbone of student support when it comes to education, but they are the ones to provide reliability when it comes to understanding technology and how it functions so students can use it for in-class and out-of-class learning. Yet, what's hard to know is that a majority of teachers are not given proper technology training to acquire skills that can help their students out with technological questions or problems. 
