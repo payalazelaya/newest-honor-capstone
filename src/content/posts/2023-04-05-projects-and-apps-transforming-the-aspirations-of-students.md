@@ -1,10 +1,10 @@
 ---
 template: blog-post
-title: Projects and Apps Transforming the Aspirations of Students
-slug: /student-opportunities
-date: 2023-04-05 10:00
+title: Projects and Apps Enhancing Aspirations of Students
+slug: /hands-on-opportunities
+date: 2023-04-17 21:12
 description: Getting students to be involved in creating projects and apps
-  creates a fortifying environment of learning and curiosity for them
+  creates a fortifying environment of learning and curiosity for technology
 featuredImage: /assets/pexels-flex-point-security-12473878.jpg
 ---
 Particular countries across Latin America have assisted in establishing events for students to work on projects and apps related to tech. These special events have made students come together to collaborate with one another in order to establish an interest in technology and its innovations. 
