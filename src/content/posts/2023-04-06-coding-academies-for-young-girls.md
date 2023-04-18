@@ -2,9 +2,9 @@
 template: blog-post
 title: Coding Academies for Young Girls
 slug: /coding-academies
-date: 2023-04-05 20:35
+date: 2023-04-17 20:58
 description: How coding academies targeted at young girls have proven to be a
-  success in their interest in technology
+  success in their interest in technology in Latin America
 featuredImage: /assets/robo-wunderkind-hlvq4-qebae-unsplash.jpg
 ---
 The creation of coding academies in Latin America has gained the participation of young girls from institutions to participate and learn what computer science and coding have to offer them. This influence of coding academies or boot camps coming to Latin America comes from the rising popularity the U.S. has with these programs offered from as early as elementary or middle school for young girls all the way up to colleges/universities for young women. Essentially, what these coding academics are providing to the Latin America region is the closure of the region's technical skills and gender gaps.
