@@ -2,7 +2,7 @@
 template: blog-post
 title: "Positive Digitalization within Latin America "
 slug: /digitalization-movement
-date: 2023-04-16 01:27
+date: 2023-03-07 01:27
 description: How can the region benefit from the digitalization movement that
   spans all age groups, including students within the education system
 featuredImage: /assets/rodion-kutsaiev-0vgg7cqtwco-unsplash.jpg
