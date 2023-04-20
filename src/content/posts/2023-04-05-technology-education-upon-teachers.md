@@ -2,7 +2,7 @@
 template: blog-post
 title: Education Technology Upon Teachers
 slug: /ed-tech-for-teachers
-date: 2023-04-17 21:03
+date: 2023-03-28 21:03
 description: How teachers are head in being support for students to achieve
   success once they're familiarized with education technology
 featuredImage: /assets/how-to-teach-english-in-latin-america-–-teach-and-enjoy1.jpg
