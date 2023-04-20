@@ -2,7 +2,7 @@
 template: blog-post
 title: Coding Academies for Young Girls
 slug: /coding-academies
-date: 2023-04-17 20:58
+date: 2023-04-18 20:58
 description: How coding academies targeted at young girls have proven to be a
   success in their interest in technology in Latin America
 featuredImage: /assets/robo-wunderkind-hlvq4-qebae-unsplash.jpg
