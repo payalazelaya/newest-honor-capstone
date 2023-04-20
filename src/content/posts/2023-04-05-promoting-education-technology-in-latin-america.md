@@ -2,7 +2,7 @@
 template: blog-post
 title: Promoting Education Technology In Latin America
 slug: /education-technology
-date: 2023-04-17 21:06
+date: 2023-04-04 21:06
 description: How can institutions provide and enhance curiosity about technology
   with students is the challenge in promoting education technology at
   institutions across the region
