@@ -2,7 +2,7 @@
 template: blog-post
 title: Government Support for Technological Advance
 slug: /government-support
-date: 2023-04-17 20:57
+date: 2023-03-21 20:57
 description: "Governments are the backbone in providing resources & funding to
   education systems to provide a positive approach for the future of both
   students, teachers, and administrators "
