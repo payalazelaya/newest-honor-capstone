@@ -2,7 +2,7 @@
 template: blog-post
 title: Projects and Apps Enhancing Aspirations of Students
 slug: /hands-on-opportunities
-date: 2023-04-17 21:12
+date: 2023-04-11 21:12
 description: Getting students to be involved in creating projects and apps
   creates a fortifying environment of learning and curiosity for technology
 featuredImage: /assets/pexels-flex-point-security-12473878.jpg
