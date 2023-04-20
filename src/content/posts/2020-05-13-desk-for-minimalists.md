@@ -2,7 +2,7 @@
 template: blog-post
 title: Technological Importance in all Areas of Latin America
 slug: /tech-importance
-date: 2023-04-16 01:10
+date: 2023-03-14 01:10
 description: How remote suburban and rural areas should be provided with
   Internet access just like urban and cities do too
 featuredImage: /assets/leon-overweel-iyajrykw0vw-unsplash.jpg
