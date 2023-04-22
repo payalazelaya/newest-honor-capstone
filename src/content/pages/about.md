@@ -3,7 +3,7 @@ template: about-page
 slug: /about
 title: "About Aprendiendo Conmigo "
 ---
-"Aprendiendo Conmigo", or "Learning With Me" as it's the English translation of it, is an educative website that encompasses the importance of technology and its impacts on the educational system in Latin America.
+"Aprendiendo Conmigo", or "Learning With Me" its English translation of it, is an educative website that encompasses the importance of technology and its impacts on the educational system in Latin America.
 
 ![A young girl and boy raising their hands in a classroom](/assets/9602545478_9fb38daf2e_o.jpg "Young Girl and Boy Raising their Hands for a Question in their Classroom")
 
