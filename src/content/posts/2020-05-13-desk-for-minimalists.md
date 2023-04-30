@@ -3,8 +3,9 @@ template: blog-post
 title: Technological Importance in all Areas of Latin America
 slug: /tech-importance
 date: 2023-03-14 01:10
-description: How remote suburban and rural areas should be provided with
-  Internet access just like urban and cities do too
+description: Analyzing the importance of how remote suburban and rural areas
+  should be provided with technological resources just like urban areas across
+  the region
 featuredImage: /assets/leon-overweel-iyajrykw0vw-unsplash.jpg
 ---
 Rural and remote suburban areas are known to be the areas that do not get much importance when it comes to Internet access. These areas are also dead spots for how Internet signal is very weak based on how remote they're located on a map. At the same time, the amount of students who live in these areas that don't own a device is prominent and are not receiving the proper share of those who live in towns, cities, and even large cities who get their own devices.
