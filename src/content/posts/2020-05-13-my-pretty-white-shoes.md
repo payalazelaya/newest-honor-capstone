@@ -4,7 +4,7 @@ title: "Positive Digitalization within Latin America "
 slug: /digitalization-movement
 date: 2023-03-07 01:27
 description: How can the region benefit from the digitalization movement that
-  spans all age groups, including students within the education system
+  spans all age groups, including students within the region's education systems
 featuredImage: /assets/rodion-kutsaiev-0vgg7cqtwco-unsplash.jpg
 ---
 Students over the last couple of years have been provided with devices for their educational use while being at home, yet the impact this has is shown to be worthy of how more engaging they are with their education. In general, digitalization is hopeful in bringing in the possibility of new social opportunities in the region after sustaining the progress it has established in promoting the movement in the past two decades.
