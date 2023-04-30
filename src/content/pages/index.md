@@ -8,4 +8,4 @@ cta:
   ctaText: Learn More!
   ctaLink: /about
 ---
-Presenting an educative website as to why the introduction of education technology to students within schools in Latin America based on the digitalization movement occurring is heavily influential for the future of students.
+An educative website that introduces the importance of education technology to students within schools in Latin America based on the digitalization movement occurring within the region that is heavily influential for the future of students.
